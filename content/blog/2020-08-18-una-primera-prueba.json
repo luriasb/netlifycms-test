@@ -1,0 +1,6 @@
+{
+  "date": "2020-08-18T16:25:11.809Z",
+  "title": "Una primera prueba",
+  "description": "Esta es mi primera prueba con Netlify CMS",
+  "body": "![hero](/img/img12.jpeg \"Hero post\")\n\nWoooow, Mi primer post con Netlify CMS!!!!"
+}
